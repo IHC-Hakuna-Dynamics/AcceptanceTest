@@ -1,3 +1,5 @@
+Feature: Iniciar sesión en una cuenta
+
 Scenario 01:
 Dado que la aplicación permite ingresar a una cuenta.
 Cuando el usuario presione el botón “Iniciar sesión”.
